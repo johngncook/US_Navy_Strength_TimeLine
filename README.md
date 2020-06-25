@@ -9,11 +9,11 @@ Data taken from https://www.history.navy.mil/content/history/nhhc/research/histo
 
 In order to do use this python notebook you will need to install the following libraries:
 
-*beautifulsoup
-*numpy
-*pandas
-*seaborn 
-*matplotlib
+* beautifulsoup
+* numpy
+* pandas
+* seaborn 
+* matplotlib
 
 Enter the following into the windows terminal:
 ```
@@ -30,8 +30,6 @@ pip install matplotlib
 ## Author
 
 * **John Cook** - *Initial work* - [johngncook](https://github.com/johngncook)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
